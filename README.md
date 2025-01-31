@@ -84,5 +84,3 @@ function _updateHolders(address sender, address recipient) internal
 ## 📜 License
 This project is licensed under **LGPL-3.0-only**.
 
-📧 _Developed by the RealCrypto team._
-
